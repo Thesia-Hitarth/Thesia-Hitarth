@@ -20,7 +20,7 @@
   - 🔭 Enjoy connecting with people across the globe [Let's Connect!](https://www.linkedin.com/in/hitarth-thesia-2043b0170/)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1050">
 
-### 🖇️ Tech Stack & Tools
+### 👨‍💻 Tech Stack & Tools
 
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
